@@ -1,0 +1,365 @@
+
+<!doctype html>
+<html>
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	   
+	    <!-- viewport -->
+	    <meta content="width=device-width,initial-scale=1" name="viewport">
+	       
+	    <!-- title -->
+	    <title>ARTA Brochure</title>   
+
+	    <meta name="description" content="ChefOnline not only design responsive & attractive websites for restaurant business but also provide needed solutions to make your business profitable. Our valuable client and their portfolio given below.">
+
+	    <link rel="shortcut icon" type="image/x-icon" href="https://www.chefonline.com/assets/images/favicon.png">
+	        
+	    <!-- add css and js for flipbook -->
+	    <link type="text/css" href="css/style.css" rel="stylesheet">
+
+	    <!-- style css  -->
+		<style>	 
+			body #fb5 .fb5-bcg-book{
+				background: #000;
+			}
+			
+			#fb5-ajax{
+				
+			}
+			
+			@media (max-width: 800px){
+				#fb5-ajax{
+					display: none;
+				}
+				
+				
+			}
+		</style>
+	      
+	</head>
+ 
+<body>
+
+	 
+    <!-- Desktop Version -->
+	<div id="fb5-ajax">	         
+				
+		<div data-current="chefonline-brochure" class="fb5" id="fb5">
+			  
+			<div class="fb5-bcg-book"></div>   
+		   
+			<div id="fb5-container-book"> 
+				<section id="fb5-deeplinking">
+					<ul>
+						<li data-address="1" data-page="1"></li>  
+						
+						<li data-address="2-3" data-page="2"></li>
+						<li data-address="2-3" data-page="3"></li>
+						
+						<li data-address="4-5" data-page="4"></li>
+						<li data-address="4-5" data-page="5"></li>
+						
+						<li data-address="6-7" data-page="6"></li>
+						<li data-address="6-7" data-page="7"></li>
+						
+						<li data-address="8-9" data-page="8"></li>
+						<li data-address="8-9" data-page="9"></li>
+						
+						<li data-address="10-11" data-page="10"></li>
+						<li data-address="10-11" data-page="11"></li>
+						
+						<li data-address="12-13" data-page="12"></li>
+						<li data-address="12-13" data-page="13"></li>
+						
+						<li data-address="14-15" data-page="14"></li>
+						<li data-address="14-15" data-page="15"></li>
+						
+						<li data-address="16-17" data-page="16"></li>
+						<li data-address="16-17" data-page="17"></li>
+						
+						<li data-address="18-19" data-page="18"></li>
+						<li data-address="18-19" data-page="19"></li>
+						
+						<li data-address="20-21" data-page="20"></li>
+						<li data-address="20-21" data-page="21"></li>
+						
+						<li data-address="22-23" data-page="22"></li>
+						<li data-address="22-23" data-page="23"></li>
+						
+						<li data-address="24" data-page="24"></li>	 
+						 
+					</ul>
+				 </section> 
+
+				 
+				<div id="fb5-book">        
+					<div data-background-image="arta/Page-01.jpg" class="">
+						 <div class="fb5-cont-page-book">
+							<div class="fb5-page-book"></div>             
+							<div class="fb5-meta">								
+								<span class="fb5-num">1</span>
+							</div>					
+						</div>
+					</div>    
+
+					<div data-background-image="arta/Page-04.jpg" class="">
+						 <div class="fb5-cont-page-book">
+							<div class="fb5-page-book"></div>               
+							<div class="fb5-meta">								
+								<span class="fb5-num">2</span>
+							</div>					
+						</div> 
+					</div> 					
+					<div data-background-image="arta/Page-05.jpg" class="">				 
+						 <div class="fb5-cont-page-book">
+							<div class="fb5-page-book"></div>                
+							<div class="fb5-meta">								
+								<span class="fb5-num">3</span>
+							</div>					
+						</div>
+					</div> 	
+					<div data-background-image="arta/Page-06.jpg" class="">
+						 <div class="fb5-cont-page-book">
+							<div class="fb5-page-book"></div>        
+							<div class="fb5-meta">								
+								<span class="fb5-num">4</span>
+							</div>
+						</div>
+					</div> 			
+					<div data-background-image="arta/Page-07.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">5</span>
+							</div>					
+						</div>  
+					</div>				
+					<div data-background-image="arta/Page-08.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">6</span>
+							</div>					
+						</div>  
+					</div>
+					
+					<div data-background-image="arta/Page-09.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">7</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-10.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">8</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-11.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">9</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-12.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">10</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-13.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">11</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-14.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">12</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-15.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">13</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-16.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">14</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-17.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">15</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-18.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">16</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-19.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">17</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-20.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">18</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-21.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">19</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-22.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">20</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-23.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">21</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-24.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">22</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-25.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">23</span>
+							</div>					
+						</div>  
+					</div>
+					<div data-background-image="arta/Page-26.jpg" class="">	
+						<div class="fb5-cont-page-book">        
+							<div class="fb5-page-book"></div> 	
+							<div class="fb5-meta">							
+								<span class="fb5-num">24</span>
+							</div>					
+						</div>  
+					</div>     
+				</div> 
+				
+				<a class="fb5-nav-arrow prev"></a>
+				<a class="fb5-nav-arrow next"></a> 
+					
+				</div> 
+				 
+				<div id="fb5-footer">
+			
+				<div class="fb5-bcg-tools"></div>
+				 
+				<div id="fb5-logo">
+					<img alt="" src="https://www.chefonline.com/assets/images/logo.png">
+				</div>
+				
+				<div class="fb5-menu" id="fb5-center">
+					<ul>     
+						<li>
+							<a title="DOWNLOAD" class="fb5-download" href="images/ChefOnlineBrochure_Web.pdf"></a>
+						</li>               
+						<li>
+							<a title="ZOOM IN" class="fb5-zoom-in"></a>
+						</li>  
+						<li>
+							<a title="ZOOM OUT " class="fb5-zoom-out"></a>
+						</li>   
+						<li>
+							<a title="ZOOM AUTO " class="fb5-zoom-auto"></a>
+						</li> 
+					</ul>
+				</div>
+				
+				<div class="fb5-menu" id="fb5-right">
+					<ul>          
+						<li class="fb5-goto">
+							<label for="fb5-page-number" id="fb5-label-page-number">PAGE</label>
+							<input type="text" id="fb5-page-number">
+							<button type="button">GO</button>
+						</li>                                                 
+						<li>
+							<a title="FULL / NORMAL SCREEN" class="fb5-fullscreen"></a>
+						</li>           
+					</ul>
+				</div>        
+			</div>   
+		</div> 
+	</div> 
+	<!-- Desktop Version -->
+
+	<script src="js/jquery.js"></script>
+	<script src="js/turn.js"></script>              
+	<script src="js/jquery.fullscreen.js"></script>
+	<script src="js/jquery.address-1.6.min.js"></script>
+	<script src="js/wait.js"></script>
+	<script src="js/onload.js"></script> 
+
+	<script>    
+		jQuery('#fb5').data('config',{
+			"page_width":"595",
+			"page_height":"842",
+			"email_form":"office@somedomain.com",
+			"zoom_double_click":"1",
+			"zoom_step":"0.15",
+			"double_click_enabled":"true",
+			"tooltip_visible":"true", 
+			"toolbar_visible":"true",
+			"gotopage_width":"0",
+			"deeplinking_enabled":"true",
+			"rtl":"false",
+			'full_area':'true',
+			'lazy_loading_thumbs':'false',
+			'lazy_loading_pages':'false'
+		})
+	</script> 
+</body>
+</html>
