@@ -85,7 +85,7 @@
 /* = Back button
 -------------------------------------------------------------- */
    #fb5 #fb5-button-back{
-	color:#FFFFFF;
+	color:#f9f9f9;
 	position:absolute;
 	left:-5px;
 	top:45px;
@@ -100,7 +100,7 @@
   }
   #fb5 #fb5-button-back:hover{
 	color:#64C8D3;  
-	background-color:#FFFFFF
+	background-color:#f9f9f9
   }
 
 
